@@ -1,5 +1,7 @@
 # HR-Dashboard-MySQL-Power-BI-Project
 
+![image alt](https://github.com/JerryMukony/HR-Dashboard-MySQL-Power-BI-Project/blob/4826990a6b264ecac4569485500accd3578985e5/Screenshot%20(231)--HR-Dashboard.png)
+
 # Data Used
  -- Data- HR Data with over 22000 rows from the year 2000to 2020
  -- Data Cleaning & Analysis - MySQL Workbench
